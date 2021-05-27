@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.478bdac2.chunk.css",
-    "main.js": "/static/js/main.9d9514fc.chunk.js",
-    "main.js.map": "/static/js/main.9d9514fc.chunk.js.map",
+    "main.css": "/static/css/main.ceb3e663.chunk.css",
+    "main.js": "/static/js/main.7433408a.chunk.js",
+    "main.js.map": "/static/js/main.7433408a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.353b760e.js",
     "runtime-main.js.map": "/static/js/runtime-main.353b760e.js.map",
     "static/js/2.a6b75c4e.chunk.js": "/static/js/2.a6b75c4e.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.508a9fed.chunk.js": "/static/js/3.508a9fed.chunk.js",
     "static/js/3.508a9fed.chunk.js.map": "/static/js/3.508a9fed.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.478bdac2.chunk.css.map": "/static/css/main.478bdac2.chunk.css.map",
+    "static/css/main.ceb3e663.chunk.css.map": "/static/css/main.ceb3e663.chunk.css.map",
     "static/js/2.a6b75c4e.chunk.js.LICENSE.txt": "/static/js/2.a6b75c4e.chunk.js.LICENSE.txt",
     "static/media/breadhound-1.ea875d4b.png": "/static/media/breadhound-1.ea875d4b.png",
     "static/media/breadhound-2.df578719.png": "/static/media/breadhound-2.df578719.png",
@@ -19,6 +19,9 @@
     "static/media/breadhound-5.a1841ba0.png": "/static/media/breadhound-5.a1841ba0.png",
     "static/media/breadhound.d678624c.png": "/static/media/breadhound.d678624c.png",
     "static/media/diploma.8e1d3b98.svg": "/static/media/diploma.8e1d3b98.svg",
+    "static/media/fitr-1.3d801a3d.png": "/static/media/fitr-1.3d801a3d.png",
+    "static/media/fitr-2.427acdeb.png": "/static/media/fitr-2.427acdeb.png",
+    "static/media/fitr-3.f8ddbd88.png": "/static/media/fitr-3.f8ddbd88.png",
     "static/media/fitr.52f7c144.png": "/static/media/fitr.52f7c144.png",
     "static/media/github.cd081cc4.svg": "/static/media/github.cd081cc4.svg",
     "static/media/linkedin.15ac43f9.svg": "/static/media/linkedin.15ac43f9.svg",
@@ -29,13 +32,14 @@
     "static/media/ring-2.0125328e.svg": "/static/media/ring-2.0125328e.svg",
     "static/media/ring-3.74ed9f72.svg": "/static/media/ring-3.74ed9f72.svg",
     "static/media/index.css": "/static/media/space.9125dc00.png",
+    "static/media/this-1.a2fd189e.png": "/static/media/this-1.a2fd189e.png",
     "static/media/this.13773ef6.png": "/static/media/this.13773ef6.png",
     "static/media/work.6a24ae3b.svg": "/static/media/work.6a24ae3b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.353b760e.js",
     "static/js/2.a6b75c4e.chunk.js",
-    "static/css/main.478bdac2.chunk.css",
-    "static/js/main.9d9514fc.chunk.js"
+    "static/css/main.ceb3e663.chunk.css",
+    "static/js/main.7433408a.chunk.js"
   ]
 }
