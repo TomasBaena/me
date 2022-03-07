@@ -1,0 +1,38 @@
+.page {
+    min-height: 100vh;
+    padding: 15px;
+    background-color: #f8f8ff;
+}
+.icon {
+    height: 70px;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: bold;
+}
+.body {
+    
+}
+.screenshot {
+    /* width: 200px; */
+    /* width: 100%; */
+    max-width: 550px;
+    max-height: 600px;
+    height: auto;
+}
+.close-button {
+    display: inline-block;
+    background: #000;
+    color: #FFF;
+    border: 0;
+    border-radius: 4px;
+    text-align: center;
+    padding: 20px 30px;
+    line-height: 1;
+    text-decoration: none;
+    /* Make the cursor be an arrow on hover */
+    cursor: default;
+}
